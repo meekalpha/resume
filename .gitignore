@@ -1,0 +1,6 @@
+/.luarc.json
+*.tex
+*.aux
+*.log
+*.out
+*.pdf

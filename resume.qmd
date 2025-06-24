@@ -1,0 +1,62 @@
+---
+name: "Ashleigh Williams"
+phone: 0448 050 290
+github: meekalpha
+email: ashjw91@gmail.com
+format:
+  pdf:
+    template: templates/resume.latex
+    filters:
+      - filters/rightalign.lua
+      #- filters/list-small.lua # Makes dot point text smaller if space needed
+    # keep-tex: true
+  gfm: default
+---
+
+# Experience
+## Data Analytics Engineer {Jan. 2024 - Present}
+### Commonwealth Bank of Australia
+- Automation and Solutions team within Business Banking Credit Risk 
+- Developing tools and automations to support credit risk analysts
+- e.g. CI/CD pipelines in Github Actions, containerized applications in Docker
+- Developed libraries in R and Python
+- Developed GenAI applications
+
+## Senior Credit Risk Analyst {Jul. 2021 – Jan. 2024}
+### Commonwealth Bank of Australia
+- Enterprise Risk Analytics and Visualisation team within Retail Credit Risk
+- Performed analytics of the retail portfolio using R, SQL and SAS
+- Developed interactive dashboards and reports in R and Python
+- Built CI/CD pipelines with Jenkins and Artifactory
+
+## Software Engineer {Jan. 2016 – Aug. 2019}
+### DTI Group Ltd
+- Developed software for public transit CCTV systems
+- Primarily focused on video playback including live streaming, video decoding, and image manipulation
+- Video playback software in C++ with OpenGL, opencv
+- Backend development in C#, using Linq, Windows SQL Server
+- Provided technical support for customers both remote and on-site
+- Worked in teams of 2 - 4 including as team lead and project lead
+
+# Skills
+- **CI/CD**: Github Actions, JFrog/Artifactory, Jenkins, Docker
+- **Analytics**: R (Shiny, RMarkdown, Quarto), Python (pandas), SQL (Teradata, Hive), SAS, Sagemaker
+- **Software development**: C++ (opencv, OpenGL), C# (Linq), Rust, Java, Javascript
+- **Scripting**: Bash, Powershell
+- **Operating Systems**: Windows, Unix (Ubuntu, Mint and Alpine)
+- **Other tools**: Git, Subversion
+
+# Education
+
+## Actuary Program (Part II) {In progress}
+### Actuaries Institute
+\vspace{11pt}
+
+## Foundation Program (Part I) {Sep. 2021}
+### Actuaries Institute
+\vspace{11pt}
+
+## Bachelor of Science (Mathematics){Apr. 2016}
+### University of New England
+\vspace{11pt}
+
