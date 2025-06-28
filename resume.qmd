@@ -1,6 +1,6 @@
 ---
 name: "Ashleigh Williams"
-phone: 0448 050 290
+phone: 0448 xxx xxx
 github: meekalpha
 email: ashjw91@gmail.com
 format:
